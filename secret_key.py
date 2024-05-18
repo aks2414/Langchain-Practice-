@@ -1,0 +1,1 @@
+openai_api_key = "sk-proj-xSkI152IRkaHuWY9BoznT3BlbkFJyPgL6XNtpAWP7QzhlNwY"

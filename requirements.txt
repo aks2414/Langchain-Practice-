@@ -1,0 +1,11 @@
+openai
+langchain
+google-search-results
+torch
+torchvision
+torchaudio
+transformers
+streamlit
+PyPDF2
+faiss-cpu
+tiktoken
